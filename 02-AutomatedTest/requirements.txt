@@ -1,0 +1,6 @@
+chardet==2.3.0
+configparser2==4.0.0
+nose==1.3.7
+requests==2.12.4
+robotframework==3.0.1
+robotremoteserver==1.0.1
